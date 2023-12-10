@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Pata tha bhosdike";
+  question.innerHTML ="Hahaha pata tha😝";
   gif.src =
     "https://media.tenor.com/T40Z2JV3r0MAAAAC/happy-penis.gif";
 });
